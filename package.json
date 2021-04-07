@@ -1,0 +1,8 @@
+{
+  "name": "require-test",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@rdf-esm/data-model": "^0.5.4"
+  }
+}
